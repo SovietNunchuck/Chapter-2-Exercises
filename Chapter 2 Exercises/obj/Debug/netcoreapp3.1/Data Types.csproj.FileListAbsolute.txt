@@ -1,0 +1,12 @@
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Data Types.exe
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Data Types.deps.json
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Data Types.runtimeconfig.json
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Data Types.runtimeconfig.dev.json
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Data Types.dll
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Data Types.pdb
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Data Types.AssemblyInfoInputs.cache
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Data Types.AssemblyInfo.cs
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Data Types.csproj.CoreCompileInputs.cache
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Data Types.dll
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Data Types.pdb
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Data Types.genruntimeconfig.cache

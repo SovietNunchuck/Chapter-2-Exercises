@@ -1,0 +1,12 @@
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Input Output.exe
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Input Output.deps.json
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Input Output.runtimeconfig.json
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Input Output.runtimeconfig.dev.json
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Input Output.dll
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\bin\Debug\netcoreapp3.1\Input Output.pdb
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Input Output.AssemblyInfoInputs.cache
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Input Output.AssemblyInfo.cs
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Input Output.csproj.CoreCompileInputs.cache
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Input Output.dll
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Input Output.pdb
+D:\LC_Classwork\C# Projects\Chapter 2 Exercises\Chapter 2 Exercises\obj\Debug\netcoreapp3.1\Input Output.genruntimeconfig.cache
